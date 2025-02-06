@@ -9,6 +9,24 @@ Podemos dizer que **valor é o que torna algo ou alguém relevante e significati
 
 ---
 
+#### **Como se constroem os valores de um ser humano?**  
+
+Os valores de um ser humano não são inatos; eles são desenvolvidos ao longo da vida por meio de interações, experiências e influências externas. Cada indivíduo constrói seus valores com base em diferentes fatores, que se combinam para formar a sua identidade moral e ética.  
+
+1. **Educação Familiar:** Desde a infância, aprendemos valores fundamentais com pais, cuidadores e familiares. O que é ensinado como certo ou errado nessa fase molda a base do nosso caráter.  
+
+2. **Cultura e Sociedade:** A sociedade na qual crescemos estabelece normas e princípios que influenciam a maneira como interpretamos o mundo e como nos comportamos dentro dele.  
+
+3. **Experiências de Vida:** Desafios, conquistas e momentos marcantes impactam a forma como enxergamos o que é importante. Muitas vezes, valores são reforçados ou transformados a partir de vivências significativas.  
+
+4. **Educação e Conhecimento:** O aprendizado contínuo e a exposição a novas ideias podem desafiar crenças preexistentes e nos ajudar a refinar ou fortalecer nossos valores.  
+
+5. **Relacionamentos e Convivência:** Amigos, professores, líderes e colegas de trabalho também exercem um papel fundamental na construção dos valores, pois observamos e absorvemos atitudes e comportamentos ao longo da vida.  
+
+6. **Reflexão e Autoconhecimento:** A forma como processamos nossas experiências e avaliamos nossas próprias ações e decisões influencia diretamente os valores que escolhemos cultivar.  
+
+Os valores não são estáticos. Eles evoluem conforme crescemos e adquirimos novas perspectivas. O mais importante é manter a consciência sobre os princípios que nos guiam e garantir que estejam alinhados com a pessoa que queremos nos tornar. 🚀
+---
 #### **O que é valor percebido?**
 Se o conceito de valor já é subjetivo, o valor percebido é ainda mais intrigante. Ele está diretamente ligado à forma como as pessoas enxergam algo, seja um produto, uma pessoa ou uma experiência. Ou seja, **valor percebido não é necessariamente o que algo é, mas sim o que parece ser**.
 
