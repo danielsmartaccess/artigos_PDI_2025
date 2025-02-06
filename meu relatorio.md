@@ -66,6 +66,8 @@ Com base nas respostas fornecidas, analisamos os principais valores e prioridade
 Vou gerar um gráfico radar para representar sua hierarquia de valores de forma visual. 🚀🎯
 
 Aqui está o **gráfico radar** representando sua hierarquia de valores! 🎯  
+![output](https://github.com/user-attachments/assets/80486653-00c4-442c-8e67-f797d651b5f1)
+
 
 🔹 **Destaques:**  
 - **Liberdade e Independência** e **Conhecimento e Crescimento Pessoal** são os mais prioritários (5/5).  
