@@ -1,5 +1,3 @@
----
-
 ### **📊 A Revolução do Desenvolvimento Profissional: Como a Inteligência Artificial e o People Analytics Estão Transformando o PDI**  
 
 Nos últimos anos, o **Plano de Desenvolvimento Individual (PDI)** se tornou um dos pilares mais importantes para a **gestão de talentos**. Porém, o avanço da **Inteligência Artificial (IA)** e das **ferramentas de People Analytics** está redefinindo como as empresas avaliam e desenvolvem seus colaboradores.  
@@ -102,8 +100,8 @@ E você, está pronto para levar seu PDI para o futuro? 😉
 **📌 Conclusão**  
 O PDI tradicional está sendo substituído por um modelo **inteligente e dinâmico**, no qual a tecnologia permite uma abordagem mais estratégica e personalizada. **People Analytics e IA já não são mais tendências, mas sim uma necessidade real para empresas que querem desenvolver seus talentos da melhor forma possível.**  
 
-Se você deseja explorar mais sobre **como implementar essas ferramentas no seu RH**, entre em contato para descobrir as melhores soluções para sua equipe! 🚀  
+Se você deseja explorar mais sobre **como implementar essas ferramentas no seu RH**, entre em contato @danielsmartaccess para descobrir as melhores soluções para sua equipe! 🚀  
 
 ---
 
-📌 **Gostou deste artigo?** Compartilhe com sua equipe e comece a revolucionar o PDI da sua empresa hoje mesmo! 😊
+📌 **Gostou deste artigo?** Compartilhe com sua equipe e comece a revolucionar os PDI´s na sua empresa hoje mesmo! 😊
