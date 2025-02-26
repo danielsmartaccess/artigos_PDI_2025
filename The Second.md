@@ -1,5 +1,3 @@
-Aqui está um novo artigo explorando as tendências mais inovadoras do mercado, mantendo o mesmo estilo do primeiro. O foco será na integração do **People Analytics**, **IA aplicada ao desenvolvimento organizacional** e novas formas de assessment para potencializar o **Plano de Desenvolvimento Individual (PDI)**.  
-
 ---
 
 ### **📊 A Revolução do Desenvolvimento Profissional: Como a Inteligência Artificial e o People Analytics Estão Transformando o PDI**  
