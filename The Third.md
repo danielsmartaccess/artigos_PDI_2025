@@ -77,4 +77,4 @@ Se você é da área de RH, educação corporativa ou lidera equipes, reflita:
 
 **Daniel Steinbruch**  
 Educador, Estrategista de Aprendizagem e Facilitador de Mudanças no Varejo e Inovação  
-[LinkedIn](https://www.linkedin.com/in/daniel-steinbruch-a1115a164/) | [Instagram](#) | [Blog/Podcast](#)
+[LinkedIn](https://www.linkedin.com/in/daniel-steinbruch-a1115a164/) | [Instagram](https://www.instagram.com/daniel_steinbruch/) | [Blog/Podcast](#)
